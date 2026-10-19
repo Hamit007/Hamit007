@@ -1,4 +1,3 @@
-# Hamit007.github.io
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0e75b6&height=200&section=header&text=Hamit007&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
 </p>
